@@ -379,6 +379,7 @@ img{
  #projects .project-info h1 {
    font-size:  4rem;
    font-weight: 500;
+   text-transform: uppercase;
  }
 
  #projects .project-info h2 {
