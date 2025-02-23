@@ -610,12 +610,19 @@ img{
 	}
 	h1.section-title {
 		font-size: 6rem;
+		font-weight: 700;
 	}
-  
+  	#one {
+        background-color: #fead55;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 545px;
+  	}
 	
 	#one h1 {
 		font-size: 7rem;
-      padding: 0 50px;
+     		padding: 0 50px;
 	}
 	
 	#services .service-bottom .service-item {
